@@ -677,7 +677,8 @@ Finally, the contents of this assessment report are for informational purposes o
 --- 
 **Report Generated:** August 14, 2025  
 **Contacts:**
- Twitter: [@Yé](https://x.com/yeandamen)/[@deXypherrr](https://x.com/deXypherrr)
+ Twitter: [@Yé](https://x.com/yeandamen)/[@amen88_](https://x.com/amen88_?s=21)
+
  Telegram: [@ye_and_amen](https://t.me/ye_and_amen)
 ---
 
