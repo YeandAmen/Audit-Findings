@@ -674,15 +674,12 @@ Specifically, for the avoidance of doubt, this report does not constitute invest
 
 Finally, the contents of this assessment report are for informational purposes only; do not construe any information in this report as legal, tax, investment, or financial advice. Nothing contained in this report constitutes a solicitation or endorsement of a project by IAG.
 
----
-**Audit Firm:** INVCBULL AUDIT GROUP (IAG) 
+--- 
 **Report Generated:** August 14, 2025  
 **Contacts:**
  Twitter: [@Yé](https://x.com/yeandamen)/[@deXypherrr](https://x.com/deXypherrr)
-
- 
  Telegram: [@ye_and_amen](https://t.me/ye_and_amen)
-
+---
 
 <div align="center">
 
