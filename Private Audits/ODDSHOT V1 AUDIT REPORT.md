@@ -678,8 +678,12 @@ Finally, the contents of this assessment report are for informational purposes o
 
 **Report Generated:** August 14, 2025  
 **Audit Firm:** INVCBULL AUDIT GROUP (IAG)  
-**Contact:** [@okiki_omisande](https://twitter.com/okiki_omisande) | [@Invcbull](https://t.me/Invcbull)
+**Contact:** [@Yé](https://x.com/yeandamen) | [@ye_and_amen](https://t.me/ye_and_amen
+)
 
+Report prepared by:
+Okiki Omisande
+Blockchain Security Researcher Twitter: [@okiki_omisande] [Telegram: @Invcbull]
 ---
 
 <div align="center">
