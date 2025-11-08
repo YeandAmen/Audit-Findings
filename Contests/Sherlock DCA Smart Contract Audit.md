@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ## High-4: Bucket Rewards Will Be Wiped by Stake/Unstake Before AccrueRewards, lastRewardIndex Resets Without Settling Rewards, accrueRewards Delta Becomes 0
 
 Summary:
@@ -224,5 +222,4 @@ Additional Safeguards:
 
 Links to affected code:
 https://github.com/sherlock-audit/2025-01-super-dca-gauge
->>>>>>> 2265e97 (Add Sherlock DCA Smart Contract Audit with High-4 and Medium-3 findings)
 
