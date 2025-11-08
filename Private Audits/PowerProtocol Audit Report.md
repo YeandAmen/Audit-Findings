@@ -913,13 +913,6 @@ Specifically, for the avoidance of doubt, this report does not constitute invest
 
 ---
 
-**Report Generated:** August 2025  
-**Contacts:**
-- Twitter: [@okiki_omisande](https://x.com/okiki_omisande)
-- Telegram: [@Invcbull](https://t.me/Invcbull)
-
----
-
 <div align="center">
 
 **Security Audit Report | Powers Protocol | INVCBULL AUDIT GROUP**
