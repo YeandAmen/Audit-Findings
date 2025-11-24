@@ -37,9 +37,3 @@ The final output—the report, the findings—is merely the artifact of this thi
 
 ---
 
-## 🎨 Styling Notes
-- Background: **#0d1117** (GitHub default dark)  
-- Accent colors: **Electric Blue (#00c6ff)** + **Neon Purple (#8a2be2)** + **Cyan (#00e1ff)**  
-- Font color for typing animation: **#00e1ff**  
-- Banner and header are neon to match the accent palette  
-
