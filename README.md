@@ -14,11 +14,11 @@
 
 ## 🛠️ What We Do
 
-We do not merely look for flaws. We seek to understand systems. Every policy, every line of code, every configured server is a manifestation of human intention and architectural logic. Our role is to engage in a dialogue with that logic, to question its assumptions and trace its consequences.
+We do not merely look for flaws. We seek to understand systems. Every policy, every line of code, every configured server is a manifestation of intention and architectural logic. Our role is to engage in a dialogue with that logic, to question its assumptions and trace its consequences.
 
-We begin by silencing the noise. The urgency of deadlines, the pressure of stakeholders, the allure of a simple "pass/fail" outcome—these are distractions. The system itself is the text, and we read it with a dispassionate yet deeply curious mind.
+We begin by silencing the noise. The urgency of deadlines, the pressure of stakeholders, the allure of a simple "pass/fail" outcome these are distractions. The system itself is the text, and we read it with a dispassionate yet deeply curious mind.
 
-We are looking for the spaces between the rules: where a well-defined procedure meets a human operator who is tired, rushed, or unaware; the gap between the intended data flow and the actual packet journey; the implicit trust granted to a subsystem that itself contains a chain of dependencies. This is where risk silently accumulates—not out of malice, but out of complexity and overlooked connections.
+We are looking for the spaces between the rules: where a well defined procedure meets a human operator who is tired, rushed, or unaware; the gap between the intended data flow and the actual packet journey; the implicit trust granted to a subsystem that itself contains a chain of dependencies. This is where risk silently accumulates not out of malice, but out of complexity and overlooked connections.
 
 Our thinking is recursive. We observe a control. We ask "why does this exist?" Then we ask "how can this be circumvented?" And, most importantly, "what is the underlying weakness this control is attempting to address, and is it the right control for that weakness?" It is a constant state of deconstruction and reconstruction, searching for the single thread that, if pulled, reveals a weakness in the entire tapestry.
 
@@ -26,7 +26,7 @@ Vulnerabilities are symptoms. A misconfiguration is a symptom of a flawed deploy
 
 This is a discipline of foresight. We are not just auditing the system as it is today. We model how it will behave under stress, under attack, under failure conditions. We think like the adversary, who has no emotional attachment to the system's design, only a cold focus on its points of least resistance.
 
-The final output—the report, the findings—is merely the artifact of this thinking process. The true value is the deep engagement, the silent questioning, the mental model of the system we have built and stress-tested. The goal is not to prove the system is broken, but to provide the clarity required to make it fundamentally more resilient. It is a quiet, continuous practice of rigorous thought applied to the structures we build and depend upon.
+The final output the report, the findings is merely the artifact of this thinking process. The true value is the deep engagement, the silent questioning, the mental model of the system we have built and stress tested. The goal is not to prove the system is broken, but to provide the clarity required to make it fundamentally more resilient. It is a quiet, continuous practice of rigorous thought applied to the structures we build and depend upon.
 
 ---
 
