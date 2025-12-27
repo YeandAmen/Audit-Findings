@@ -1,4 +1,4 @@
-## Critical-1: Transfer Recipients Will Pay Unwarranted Emergency Withdrawal Penalties for Share Positions They Legitimately Own
+## 1: Transfer Recipients Will Pay Unwarranted Emergency Withdrawal Penalties for Share Positions They Legitimately Own
 
 Summary:
 The missing stake tracking updates on ERC20 transfers will cause a 10% penalty loss for share recipients as they cannot use normal withdrawal even after waiting the full minStakePeriod because the stakes[] array remains empty for transferred shares.
